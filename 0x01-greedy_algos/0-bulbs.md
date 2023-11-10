@@ -22,6 +22,7 @@ constraints:
     * N time for N bits
 * space complexity is constant, O(1)
     * we store cost variable only
+* algo can be optimised to yield O(N) time complexity
 
 ### optimisation
 * say we have an array viz: [0, 1, 0, 1, 1, 0, 1, 1]
